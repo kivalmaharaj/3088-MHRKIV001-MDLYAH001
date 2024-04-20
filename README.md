@@ -1,2 +1,3 @@
 # 3088-MHRKIV001-MDLYAH001
-EEE3088 Project
+EEE3088F Project - Power Subsystem
+
